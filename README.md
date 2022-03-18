@@ -15,3 +15,5 @@ some updates, however, for the application I'm currently building this one is wo
 ## how do I install it ##
 You you could install it manually, however, is much easier to let the script do it for you.
 Note: The script is only working for linux, for windows and macOS will be added soon. 
+
+
