@@ -1,4 +1,6 @@
-[inst](https://github.com/minuxdev/drag_drop/edit/main/README.md#why-is-here)
+1.  [drag_drop](https://github.com/minuxdev/drag_drop/edit/main/README.md#why-is-here)
+2.  [why is here?]
+3.  [how do I install it]
 
 # drag_drop
 
